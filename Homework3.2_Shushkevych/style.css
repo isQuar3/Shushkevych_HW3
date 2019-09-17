@@ -1,0 +1,80 @@
+body {
+    background-color: #990909;
+
+}
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+.divbgcolor {
+    width: 100%;
+    background-color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wrapp {
+    margin: auto;
+    display:flex
+}
+.imagesBox {
+    margin: 20px 0px -10px 0px;
+    width:35%;
+    text-align:center
+}
+.imagesBox img {
+    width:50%;
+}
+.sidebar1 {
+    float: left; /* Обтекание по правому краю */
+    background: #7d0909; /* Цвет фона */
+    color: #e34926;
+    border: 1px; /* Параметры рамки */
+    width: 20%; /* Ширина блока */
+    margin: 5px 0px 0px 0px;
+    height: 450px;
+   }
+   .content {
+    float: left;
+    border: 1px;
+    width: 59%;
+    margin: 10px 5px 0px 5px;
+    color: white;
+   }
+   .sidebar2 {
+    float: right;
+    background: #e3dddd;
+    width: 20%;
+    margin: 5px 0px 0px 0px;
+    height: 450px;
+
+   }
+   h6 {
+    background: #bebdbb;
+    text-align: center;
+    font-size: 110%;
+    margin: auto;
+   }
+   hr {
+       width: 30%
+    }
+   .footer {
+    margin: 25px 0px 0px 0px;
+    color: white;
+    background-color: #e95c10;
+    font-size: 20px;
+    text-align: center;
+   }
+   p {
+       font-size: 18px;
+   }
+   a {
+       color: #d33d1b;
+   }
+   a:hover {
+       color: #bebdbb;
+   }
+.fontp {
+margin: 5px 0px 20px 0px;
+color: white;
+}

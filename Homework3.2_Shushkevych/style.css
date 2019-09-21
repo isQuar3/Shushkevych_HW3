@@ -32,7 +32,6 @@ color: #e34926;
 border: 1px; /* Параметры рамки */
 width: 20%; /* Ширина блока */
 margin: 5px 0px 0px 0px;
-height: 450px;
 }
 .content {
 float: left;
@@ -46,8 +45,6 @@ float: right;
 background: #e3dddd;
 width: 20%;
 margin: 5px 0px 0px 0px;
-height: 450px;
-
 }
 h6 {
 background: #bebdbb;

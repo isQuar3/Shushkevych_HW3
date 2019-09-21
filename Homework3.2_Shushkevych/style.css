@@ -64,6 +64,7 @@ color: white;
 background-color: #e95c10;
 font-size: 20px;
 text-align: center;
+clear: both; ****---------------------****e,k
 }
 p {
 font-size: 18px;
